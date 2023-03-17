@@ -1,7 +1,7 @@
 apiVersion: core.oam.dev/v1beta1
 kind: Application
 metadata:
-  name: first-vela-app
+  name: job-tester-1
 spec:
   components:
     - name: express-server
